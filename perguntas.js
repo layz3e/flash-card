@@ -18,6 +18,14 @@ criaCartao(
 
 criaCartao(
     'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Quando iniciou a segunda guerra mundial?',
+    '1 de setembro de 1939 – 2 de setembro de 1945'
 )
+
+criaCartao(
+    'Filosofia',
+    'que e considerado o pai da filosofia?',
+    'Tales de Mileto
+'
+)
+
